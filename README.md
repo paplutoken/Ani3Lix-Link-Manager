@@ -1,7 +1,4 @@
 # Ani3Lix-Link-Manager
-Here’s the README.md file for your repository:
-
-
 ---
 
 Ani3Lix Link Manager
@@ -81,6 +78,4 @@ This project is open-source under the MIT License.
 
 
 ---
-
-Let me know when you've added this to your repository, and we’ll move to the next step!
 
